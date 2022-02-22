@@ -1,1 +1,11 @@
-.
+Introduction page. No further info needed
+Social engineering, otherwise known as hacking humans. While using social engineering it is possible to access others information quickly.
+Phishing, a form of social engineering that uses email (primarily) but can also use instant messaging, text, or voice/video calls. Never open emails/attachments from untrusted sorces.
+Malware and ransomware, types of software used to steal information, and money. ransomware encrypts software and data where it then needs to be paid for to "get returned". Malware is  normally used to cause daage or steal info.
+Passwords, needed for everything yet one of the most vunerable because many people do not secure them well enough. Your best option is to use completely random passwords and a password manager.
+Multifactor Authentication and password manager, how to take extra steps to ensure that your information is safe. Personally I now use a password manager called bitwarden and really like it.
+Public Network Safety, Note there really isnt any "safe" public wifi. ALWAYS USE A VPN!! check your website connection security because there are many websites that are unsecure that can put your info at risk.
+Backups, ALWAYS BACKUP YOUR DATA! Your best bet is to keep to the 3,2,1 rule. 3 copies, 2 different mediums, 1 "offsite"or cloud services. Always keep your backups up to date and I always reccomend having a USB and a drive (secondary or external).
+Updates, Always keep your stuff up to date because otherwise you become more vunerable. The reson why "legacy" platforms are not recommended.
+To conclude watch out for phishing, keep an up to date antivirus, use a password manager, and multifactor authenication, use a VPN, keep your stuff up to date, and always keep backups.
+TLDR: antivirus, vpn, and password manager are needed, keep updated and backups!
